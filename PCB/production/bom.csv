@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_SOD-123,1,Schottky Diode,
+D2,D_DO-201AD_P15.24mm_Horizontal,1,Schottky Diode,
+J1,RPI_PICO_TH,1,RPI_PICO-TH,
+J2,TYPE-C_24P_QCHT,1,USB_C_Receptacle,
+"MX1, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX17, MX18, MX19, MX2, MX20, MX21, MX22, MX3, MX4, MX5, MX6, MX7, MX8, MX9",SW_MX_HS_1u,22,MX_SW_HS,
+"R1, R2",0805,2,5.1k,
